@@ -1,2 +1,2 @@
 # gig
-ini adalah kumpula icon game untuk kebutuhan asset website
+ini adalah kumpulan icon game untuk kebutuhan asset website
